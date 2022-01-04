@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.header-navbar{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    padding: 34px 0px;
+}
+
+.nav a {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 15px;
+    text-transform: uppercase;
+    color: rgb(160, 10, 10);
+}
+
+.nav a:hover {
+   
+  color: wheat;
+  background-color: green;
+  border-radius: 5px;
+}
+
+
+.nav {
+    width: 60%;
+    margin: auto;
+}
+
+.logo-info {
+    width: 40%;
+    text-transform: uppercase;
+    font-size: 23px;
+    color: green;
+    cursor: pointer;
+}
+
+
