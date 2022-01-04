@@ -42,4 +42,45 @@ body{
     cursor: pointer;
 }
 
+/* Header Ends Here  */
+
+
+
+.Bangladesh-info{
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+
+.box-right{
+    width: 40%;
+
+}
+.box-right img{
+    width: 400px;
+
+}
+
+
+.box-left {margin-top: 50px;}
+
+.box-left h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+button a {
+    background-image: linear-gradient(45deg, red, green);
+    padding: 10px 40px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    border-radius: 5px;
+}
+
+button {
+    border: navajowhite;
+    margin-top: 33px;
+}
 
